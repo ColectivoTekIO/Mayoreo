@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
  **Son datos reales ya**
 
 
@@ -11,16 +12,11 @@ layout: default
 
 | Producto      | Precio          | Existencia | Proveedor |
 |:-------------|:------------------|:------| |
-| Selfie basico           | 18 pesos | 200  | |
-| Router | 280   | nice  | 1 |
+| Selfie basico           | 18 pesos | 200  | Tek.IO |
+| Router | 280   | | Tek.IO |
+| Foco Osram 8.5 watts en paq 3 | 30   | | Tek.IO |
 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
 
 
