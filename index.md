@@ -1,7 +1,3 @@
----
-layout: default
----
-
  **Son datos reales ya**
 
 
