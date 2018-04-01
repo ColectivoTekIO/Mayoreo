@@ -10,7 +10,7 @@ layout: default
 
 ###### [](#header-6)Solo mayoreo
 
-| Producto      | Precio          | Existencia |
+| Producto      | Precio Unitario         | Existencia |
 |:-------------|:------------------|:------| 
 | Selfie basico           | 18 pesos | 200  |
 | Router | 280   | | Tek.IO |
