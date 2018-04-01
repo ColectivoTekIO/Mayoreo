@@ -9,9 +9,8 @@ En desarrollo
 | Elemento     | Precio       | Actual al |
 |:-------------|:------------------|:------|
 | Selfie basico| 18 | 4 1 2018  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Router Wifi TrendNet| 270   | 4 1 2018  |
+| Convertidor TDT         | 480      | hmm   |
 
 ### There's a horizontal rule below this.
 
